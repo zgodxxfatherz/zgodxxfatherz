@@ -1,4 +1,4 @@
-# Hi, I'm Mohammad 👋
+# zgodxxfatherz
 
 Desktop and networking tooling built to solve one specific problem well, then shipped.
 
